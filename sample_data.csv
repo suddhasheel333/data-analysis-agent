@@ -1,0 +1,7 @@
+date,product,category,sales,quantity,region
+2024-01-01,Laptop,Electronics,1200,2,North
+2024-01-02,Phone,Electronics,800,5,South
+2024-01-03,Tablet,Electronics,450,3,East
+2024-01-04,Laptop,Electronics,1500,3,West
+2024-01-05,Phone,Electronics,950,7,North
+2024-01-06,Tablet,Electronics,600,4,South
